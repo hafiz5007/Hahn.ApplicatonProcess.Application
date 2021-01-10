@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hahn.ApplicatonProcess.Dece
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hahn.ApplicatonProcess.December2020.Data", "Hahn.ApplicatonProcess.December2020.Data\Hahn.ApplicatonProcess.December2020.Data.csproj", "{229EF5AF-0552-48EF-B56A-0A9940DCA0A7}"
 EndProject
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Hahn.ApplicatonProcess.December2020.WebApp", "Hahn.ApplicatonProcess.December2020.WebApp\Hahn.ApplicatonProcess.December2020.WebApp.njsproj", "{5291D439-7523-4B0E-8002-7291A634D40F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{229EF5AF-0552-48EF-B56A-0A9940DCA0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{229EF5AF-0552-48EF-B56A-0A9940DCA0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{229EF5AF-0552-48EF-B56A-0A9940DCA0A7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5291D439-7523-4B0E-8002-7291A634D40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5291D439-7523-4B0E-8002-7291A634D40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5291D439-7523-4B0E-8002-7291A634D40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5291D439-7523-4B0E-8002-7291A634D40F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
